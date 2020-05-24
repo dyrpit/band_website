@@ -16,3 +16,7 @@ Store webpage has some interactive cart:
 3. Purchase products
 
 Cart was made by using only JS
+
+## See the website here
+
+https://dyrpit.github.io/band_website/
